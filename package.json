@@ -1,9 +1,9 @@
 {
-  "name": "@frontend-client/angular",
+  "name": "@csr/angular",
   "version": "0.0.1",
-  "description": "Front-end Client - Angular",
+  "description": "Client Side Render - Angular",
   "main": "index.js",
-  "repository": "git@github.com:houseoftypescript/frontend-template.git",
+  "repository": "git@github.com:houseoftypescript/web-csr-angular.git",
   "author": "hieudoanm <hieumdoan@gmail.com>",
   "license": "GNU GPL 3.0",
   "private": true,
